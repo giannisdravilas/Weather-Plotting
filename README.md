@@ -8,7 +8,7 @@ __geopHeight3d__
 
 Creates a 3d plot of the Geopotential Height on the level of 500 hPa on a given date, according to ICON-EU forecasting model's real-time data provided by the DWD. The z axis has a reduced scale and limits for a better representation of the 3d surface. A basemap using cartopy, is also used, combined with a simple contour plot on level 0, producing a projection of the data on a simple x,y layer.
 
-![sample_icon_eu_geop500_3d_2021100612_096.png](sample_icon_eu_geop500_3d_2021100612_096.png)
+![sample_icon_eu_geop500_3d_2021100612_096.png](geopHeight3d/sample_icon_eu_geop500_3d_2021100612_096.png)
 
 __hurricaneTrack__
 
