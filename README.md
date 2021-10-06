@@ -14,6 +14,8 @@ __hurricaneTrack__
 
 Creates a 2d plot of the hurricane Ida's track, which hit USA on 2021. The track is plotted on a 6-hour step, using a cyclone thumbnail on a geophysical basemap provided by NOAA. The maximum wind speed around the hurricane's track is also plotted, using a contour plot.
 
+<img src="geopHeight3d/sample_icon_eu_geop500_3d_2021100612_096.png" alt="drawing" width="200"/>
+
 __precipitationGreece__
 
 Creates a 2d plot of the accumulated precipitation in Greece on a given date, according to ICON-EU forecasting model's real-time data provided by the DWD and using a NWS' colormap.
