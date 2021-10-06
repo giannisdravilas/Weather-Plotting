@@ -1,0 +1,7 @@
+{"__comment__": "JSON file specifying the image to use for a given type/name and resolution. Read in by cartopy.mpl.geoaxes.read_user_background_images.",
+  "ETOPO": {
+    "__comment__": "ETOPO",
+    "__source__": "https://www.ngdc.noaa.gov/mgg/global/global.html",
+    "__projection__": "PlateCarree",
+    "low": "color_etopo1_ice_low.jpg"}
+}
