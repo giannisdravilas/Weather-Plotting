@@ -12,7 +12,7 @@ Creates a 3d plot of the Geopotential Height on the level of 500 hPa on a given 
 
 __hurricaneTrack__
 
-Creates a 2d plot of the hurricane Ida's track, which hit USA on 2021. The track is plotted on a 6-hour step, using a cyclone thumbnail on a geophysical basemap provided by NOAA. The maximum wind speed around the hurricane's track is also plotted, using a contour plot.
+Creates a 2d plot of the hurricane Ida's track, which hit USA on 2021, according to NOAA's GFS forecast. The track is plotted on a 6-hour step, using a cyclone thumbnail on a geophysical basemap provided by NOAA. The maximum wind speed around the hurricane's track is also plotted, using a contour plot.
 
 <img src="hurricaneTrack/sample_gfs_hurricane_ida_track.png" alt="sample" width="500"/>
 
