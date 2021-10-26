@@ -1,6 +1,6 @@
 # Weather-Plotting
 
-This repository contains some examples for creating 2d and 3d weather plots using matplotlib and cartopy libraries in python3.
+🌀❄️🌩️ This repository contains some examples for creating 2d and 3d weather plots using matplotlib and cartopy libraries in python3.
 <br>
 Every directory also contains samples depicting the result of the provided code.
 
