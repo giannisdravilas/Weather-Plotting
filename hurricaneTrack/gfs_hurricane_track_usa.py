@@ -99,7 +99,7 @@ for i in range(0, len(min_lon_converted), 2):
     ax.add_artist(ab)
 
 # Levels of wind speed (km/h)
-# 62 km/h for 8 beauforts, 170 km/h, higher of the dataset
+# 62 km/h for 8 beauforts, 170 km/h, highest of the dataset
 levels = np.linspace(62, 170, 54)
 
 # Contourf plot
